@@ -26,5 +26,6 @@
 		<module>keitdk-commons-exception</module>
 		<module>keitdk-commons-i18n</module>
 		<module>keitdk-commons-core</module>
+		<module>keitdk-commons-test</module>
 	</modules>
 </project>
